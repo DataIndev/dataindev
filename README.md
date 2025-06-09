@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataindev&label=Profile%20views&color=0e75b6&style=flat" alt="dataindev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataindev" alt="dataindev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/catmoonlemon" target="blank"><img src="https://img.shields.io/twitter/follow/catmoonlemon?logo=twitter&style=for-the-badge" alt="catmoonlemon" /></a> </p>
-
 - 🔭 I’m currently working on **own projects**
 
 - 🌱 I’m currently learning **Oracle Cloud Infrastructure**
